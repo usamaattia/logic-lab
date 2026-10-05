@@ -4,3 +4,6 @@ dist-single/
 test-results/
 playwright-report/
 *.tsbuildinfo
+
+# macOS
+.DS_Store

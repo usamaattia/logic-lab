@@ -1,5 +1,7 @@
 # Logic Lab
 
+**Live:** <https://usamaattia.github.io/logic-lab/>
+
 **A digital logic lab that runs in the browser, for an introductory digital design course.
 Students build and simulate gate-level circuits, get their truth tables and expressions
 automatically, check a circuit against a target function, and simplify Boolean functions
